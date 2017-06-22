@@ -1,0 +1,13 @@
+﻿  MyForm.cpp
+c:\users\mac\desktop\moba1\moba1\moba\moba\Vector_Matriz_Mapa.h(39): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(240): note: vea la declaración de 'freopen'
+c:\users\mac\desktop\moba1\moba1\moba\moba\Vector_Matriz_Mapa.h(40): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: vea la declaración de 'scanf'
+c:\users\mac\desktop\moba1\moba1\moba\moba\Vector_Matriz_Mapa.h(43): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\stdio.h(1270): note: vea la declaración de 'scanf'
+c:\users\mac\desktop\moba1\moba1\moba\moba\Vector_Matriz_Mapa.h(50): warning C4018: '<': no coinciden signed/unsigned
+c:\users\mac\desktop\moba1\moba1\moba\moba\Controladora.h(165): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\mac\desktop\moba1\moba1\moba\moba\Controladora.h(223): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\mac\desktop\moba1\moba1\moba\moba\Controladora.h(260): warning C4244: 'argumento': conversión de 'double' a 'int'; posible pérdida de datos
+c:\users\mac\desktop\moba1\moba1\moba\moba\MyForm.h(58): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  Moba.vcxproj -> C:\Users\MAC\Desktop\Moba1\Moba1\Moba\Debug\Moba.exe
